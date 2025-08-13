@@ -84,7 +84,7 @@ Visit http://localhost:3000 in your browser.
 
 ### Dashboard
 
-<img src="public\screeshots\screenshot-1755083192170.png" alt="Dashboard Screenshot" width="800" />
+<img src="public\screeshots\screenshot-1755084088799.png" alt="Dashboard Screenshot" width="800" />
 
 ### Login/Singup
 
